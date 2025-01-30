@@ -60,6 +60,11 @@
 18. **How does JavaScript handle asynchronous operations?**
 19. **What is the `forEach()` method in JavaScript? How is it different from `map()` and `filter()`?**
 20. **What are the different ways to handle errors in JavaScript?**
+21. **What are first-class functions in JavaScript?**
+22. **What are IIFEs (Immediately Invoked Function Expressions), and why are they used?**
+23. **Explain function currying with an example.**
+24. **What is the difference between Object.freeze(), Object.seal(), and Object.assign()?**
+25. **Currying is a technique where a function returns another function until all arguments are provided.**
 
 ### **Section2**
 
