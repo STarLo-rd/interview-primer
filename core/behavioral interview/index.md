@@ -99,3 +99,68 @@ Remember to prepare answers using the STAR method:
 - **Task**: Describe your responsibility
 - **Action**: Explain what you did
 - **Result**: Share the outcome and metrics
+
+# For lumel
+
+## Where do you see yourself in 3–5 years?
+
+In the next 3-5 years, I aim to evolve from my current backend development role into a technical architect position, leading the design of scalable distributed systems. I plan to deepen my expertise in cloud-native technologies and microservices architecture, while also developing my team leadership skills. A key goal is to architect systems that can handle millions of users while mentoring junior developers along the way. Most importantly, I want to build products that deliver genuine value to users and create meaningful impact – whether that's solving real business challenges or improving people's daily lives. I believe in creating solutions that not only meet technical excellence but also empower both users and team members to achieve their goals.
+
+### **Salary & Expectations Discussion**
+
+#### **HR:** "You initially mentioned 9 LPA, but now you're asking for 12 LPA. Can you explain this change?"
+
+**Your Response:**  
+I understand the concern, and I’d like to clarify my reasoning. While my primary expertise is in **backend development**, I have also worked extensively as a **full-stack developer** in my previous organization. I’ve contributed to both **frontend and backend systems**, built SDKs, designed scalable APIs, and even worked on AI-driven services. Given this broader skill set, I believe my value extends beyond just a backend role.
+
+Additionally, during my research on Lumel, I noticed that the company offers **around 10 LPA for freshers**. With **two years of industry experience** and a proven track record of delivering impactful solutions, I believe **12 LPA is a reasonable ask** that aligns with my skill set and contributions.
+
+My current CTC is **6.5 LPA**, and just **seven months ago, I received a 100% hike** based on my performance. This indicates that my company values my work and would likely continue rewarding me if they were in a more stable position. Given my expertise, I am confident that my market value reflects this progression.
+
+While I do have an offer for **9.5 LPA from a service-based company**, my preference remains **Lumel** because I’ve spent over a week researching your company and genuinely resonate with its vision and technical challenges. My decision is based on long-term **growth, impactful work, and alignment with the company’s culture** rather than just immediate compensation.
+
+---
+
+### **1. What does Lumel Technologies do?**
+
+Lumel builds **Enterprise Performance Management (EPM) solutions** that help businesses manage their **planning, budgeting, forecasting, reporting, and analytics** in a **single, unified platform**.
+
+Think of it as a **smart system** that helps companies **plan their finances, analyze data, and make better business decisions**—all in one place.
+
+---
+
+### **2. Why is Lumel different?**
+
+- **No-Code, Self-Service Approach** → Users don’t need technical skills to create reports and manage data.
+- **All-in-One Solution** → Companies can handle everything from financial planning to data analytics without using separate tools.
+- **Scalability & Cost Efficiency** → Helps businesses **replace outdated, expensive software** with a modern, flexible system.
+
+---
+
+### **3. What are their key products?**
+
+Lumel offers software that improves:
+
+✅ **Planning, Budgeting & Forecasting** – Helps companies **predict and manage finances** better.  
+✅ **Reporting & Analytics** – Creates **interactive reports & dashboards** without coding.  
+✅ **Master Data Management** – Ensures **data consistency across all departments** in an organization.
+
+🔹 Example: A company like **Microsoft** can use Lumel to manage budgets, track spending, and generate financial reports **without needing a finance expert to code reports manually**.
+
+---
+
+### **4. Recent Achievements & Recognition**
+
+💡 **Lumel was named "Best New Vendor" in 2024** by BPM Partners, scoring **4.86/5** from customers.  
+💡 **Strong partnership with Microsoft**, showing that big companies trust Lumel’s technology.
+
+---
+
+### **5. How can you impress HR?**
+
+You can mention:  
+**✅ "I love that Lumel focuses on innovation and no-code solutions. In my previous role, I worked on simplifying processes using automation, SDKs, and AI, which aligns well with Lumel’s approach."**
+
+**✅ "I’m excited about how Lumel helps businesses replace legacy software with a modern, all-in-one platform. I’ve worked on optimizing systems at scale, and I’d love to contribute here."**
+
+---
